@@ -65,3 +65,6 @@ For more information on this topic, check out the following resources:
 - [Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
 
+## Git Flow Reference Image
+
+![](./assets/gitflow.png)
